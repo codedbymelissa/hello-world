@@ -1,4 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub Flow.   
-My name is Melissa, and I live in Chicago, IL, with my partner and two dogs.  
-This is my first time using GitHub. 
+This repository is for practicing the GitHub Flow.  
+This is my first time creating repositories, writing a README.md file, and using the add, commit, and push workflow.
